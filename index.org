@@ -1,0 +1,8 @@
+#+begin_export html
+---
+title: Home
+layout: home
+---
+#+end_export
+
+This is a minimal page with pointers to public resources related to Ethan Ligon's Teaching.
